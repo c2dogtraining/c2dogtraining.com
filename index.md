@@ -1,6 +1,6 @@
 ## C 2 Dog Training
 
-![Image](src)
+![Image](images/logo.png)
 
 You can use the [editor on GitHub](https://github.com/c2dogtraining/c2dogtraining.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
