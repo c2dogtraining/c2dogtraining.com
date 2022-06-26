@@ -1,0 +1,1 @@
+magick mogrify -path c:\wamp64\www\reel\images\thumbs -resize 250x150! -quality 100 -format jpg *.jpg
