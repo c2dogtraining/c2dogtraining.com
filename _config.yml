@@ -1,1 +1,16 @@
 theme: jekyll-theme-midnight
+
+pages:
+
+- title: Home
+  url: introduction.html
+
+- title: Reviews
+  url: configuration.html
+
+- title: Gallery
+  url: deployment.html
+  
+- title: Contact
+  url: deployment.html
+  
