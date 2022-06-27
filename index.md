@@ -1,8 +1,10 @@
 ## C 2 Dog Training
 
-![Image](src)
+![Image](images/logo.png)
 
-You can use the [editor on GitHub](https://github.com/c2dogtraining/c2dogtraining.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BUILD A BETTER BOND WITH YOUR DOG BY USING FORCE-FREE, FUN, POSITIVE REINFORCEMENT TRAINING!
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
